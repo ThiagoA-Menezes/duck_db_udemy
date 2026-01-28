@@ -132,3 +132,6 @@ pydoc-markdown/
 *.duckdb*
 .DuckDB/
 *.wal
+
+# SQL Files
+*.sql
